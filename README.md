@@ -22,6 +22,6 @@ For the analysis of chest x-ray images, all chest radiographs were initially scr
     conda install pytorch torchvision -c pytorch
 
 ### For running this project
-1. Copy `Lung Pnumonia detection` jupyter notebook in cloned fastai repository folder.
+1. Copy `Lung Pneumonia detection` jupyter notebook in cloned fastai repository folder.
 2. Activate the fastai environment: `source activate fastai`
 3. Run the notebook: `jupyter notebook`
